@@ -1,0 +1,36 @@
+table,li {
+    border: 1px solid #C2C6C6;
+    border-collapse: separate;
+    text-align: center;
+    width: 280px;
+    padding: 10px;
+    list-style: none;
+    background-color: #650203;
+    text-decoration:none;
+}
+table,ul {
+    border: 1px solid #C2C6C6;
+    border-collapse: separate;
+    text-align: center;
+    width: 302px;
+    padding: 5px;
+    list-style: none;
+}
+#blanco {
+    color: white;
+}
+#blanco2 {
+    color: white;
+}
+#blanco2:hover {
+    background-color: red;
+}
+#blanco3 {
+    color: white;
+}
+#blanco4 {
+    color: white;
+}
+#blanco4:visited {
+    color: red;
+}

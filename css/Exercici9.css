@@ -1,0 +1,23 @@
+table,td,th {
+    border: 1px solid black;
+	border-collapse: collapse;
+}
+td{
+	padding: 10px;
+}
+#portatil {
+	width: 70px;
+	height: 70px;
+}
+#videocamara {
+	height: 70px;
+	width: 70px;
+}
+#tv {
+	height: 70px;
+	width: 70px;
+}
+#movil {
+	height: 70px;
+	width: 70px;
+}

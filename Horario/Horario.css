@@ -1,0 +1,133 @@
+table,td,th {
+    border: 2px solid black;
+	border-collapse: collapse;
+	padding: 3px;
+}
+span {
+	text-align: right;
+}
+#Vacio {
+	background-color: #b2bcbc;
+}
+#Lunes {
+	background-color: #b2bcbc;
+}
+#Martes {
+	background-color: #b2bcbc;
+}
+#Miercoles {
+	background-color: #b2bcbc;
+}
+#Jueves {
+	background-color: #b2bcbc;
+}
+#Viernes {
+	background-color: #b2bcbc;
+}
+#Primera_Hora {
+	text-align: center;
+	padding: 17px;
+	background-color: #b2bcbc;
+}
+#Segunda_Hora {
+	text-align: center;
+	padding: 17px;
+	background-color: #b2bcbc;
+}
+#Tercera_Hora {
+	text-align: center;
+	padding: 17px;
+	background-color: #b2bcbc;
+}
+#Cuarta_Hora {
+	text-align: center;
+	padding: 17px;
+	background-color: #b2bcbc;
+}
+#Quinta_Hora {
+	text-align: center;
+	padding: 17px;
+	background-color: #b2bcbc;
+}
+#Sexta_Hora {
+	text-align: left;
+	padding: 17px;
+	background-color: #b2bcbc;
+}
+#Septima_Hora {
+	text-align: center;
+	padding: 17px;
+	background-color: #b2bcbc;
+}
+#Patio {
+	text-align: center;
+	padding: 10px;
+}
+#smx  {
+	float: right;
+ 	text-align: right;
+}
+#smx2  {
+	float: right;
+ 	text-align: right;
+}
+#smx3  {
+	float: right;
+ 	text-align: right;
+}
+#smx4  {
+	float: right;
+ 	text-align: right;
+}
+#smx5  {
+	float: right;
+ 	text-align: right;
+}
+#smx6  {
+	float: right;
+ 	text-align: right;
+}
+#smx7  {
+	float: right;
+ 	text-align: right;
+}
+#smx8  {
+	float: right;
+ 	text-align: right;
+}
+#smx9  {
+	float: right;
+ 	text-align: right;
+}
+#smx10  {
+	float: right;
+ 	text-align: right;
+}
+#smx11  {
+	float: right;
+ 	text-align: right;
+}
+#smx11  {
+	float: right;
+ 	text-align: right;
+}
+#smx12  {
+	float: right;
+ 	text-align: right;
+}
+#smx13  {
+	float: right;
+ 	text-align: right;
+}
+#smx14  {
+	float: right;
+ 	text-align: right;
+}
+#smx15  {
+	float: right;
+ 	text-align: right;
+}
+#smx16  {
+	float: right;
+ 	text-align: right;
+}

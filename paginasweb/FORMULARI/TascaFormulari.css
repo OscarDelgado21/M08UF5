@@ -1,0 +1,61 @@
+h1 {
+    color: green;
+    text-align: center;
+}
+#Información {
+    font-weight: bold;
+    text-decoration: underline;
+}
+#Nacionalidad {
+    font-weight: bold;
+    text-decoration: underline;
+}
+#Estudios {
+    font-weight: bold;
+    text-decoration: underline;
+}
+#Idiomas {
+    font-weight: bold;
+    text-decoration: underline;
+}
+#Fieldset1{
+    background-color: #FF8C69;    
+    width: 600px;
+}
+#Fieldset2{
+    background-color: #69FF8C;    
+    width: 600px;
+}
+#Fieldset3{
+    background-color: pink;
+    width: 600px;    
+}
+#Fieldset4{
+    background-color: #8FE5FF;
+    width: 600px;    
+}
+#Fieldset5{
+    background-color: #D3CFCE;
+    width: 600px;    
+}
+#tabla {
+    height: 423px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#Nombre {
+    width: 530px;
+}
+label {
+    font-style: oblique;
+}
+.informacion {
+    color: blue;
+}
+.nacionalidad {
+    color: orange;
+}
+.idiomas {
+    color: red;
+}
